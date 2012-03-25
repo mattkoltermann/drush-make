@@ -30,7 +30,7 @@ projects[] = ctools
 projects[] = date
 
 ; Extras
-projects[] = entity_reference
+projects[] = entityreference
 
 
 ; THEMES
