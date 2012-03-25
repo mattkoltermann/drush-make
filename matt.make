@@ -8,7 +8,7 @@ api = 2
 ; DRUPAL CORE
 ; ===========
  
-projects[drupal][version] = 7
+projects[] = drupal
 
 
 ; CONTRIB MODULES
