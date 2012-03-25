@@ -11,7 +11,7 @@ api = 2
 projects[drupal][version] = 7
 
 
-; CONTRIBUTED MODULES
+; CONTRIB MODULES
 ; ==================
 
 ; Development
@@ -28,6 +28,9 @@ projects[] = ctools
 
 ; Fields
 projects[] = date
+
+; Extras
+projects[] = entity_reference
 
 
 ; THEMES
