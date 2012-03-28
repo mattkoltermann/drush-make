@@ -15,49 +15,40 @@ projects[] = drupal
 ; ==================
 
 ; Development
-projects[] = devel
+projects[devel][version] = 1.x-dev
 projects[] = devel_image_provider
 projects[] = devel_themer
-;projects[] = masquerade
+projects[] = masquerade
 
 ; Basics
 projects[] = views
 projects[] = token
 projects[] = pathauto
 projects[] = ctools
-;projects[] = page_title
 
 ; Fields
 projects[] = field_group
-;projects[] = date
-;projects[] = link
+projects[] = date
+projects[] = link
 
 ; Layout
-;projects[] = ds
-;projects[] = panels
-;projects[] = panelizer
-;projects[] = context
+projects[] = ds
+projects[] = context
 
 ; APIs
 projects[] = entity
 projects[] = libraries
 
 ; Extras
-projects[] = entityreference
-;projects[] = webform
-;projects[] = mollom
-;projects[] = backup_migrate
-;projects[] = feeds
-;projects[] = media
-;projects[] = nodequeue
-;projects[] = pathologic
-;projects[] = rules
-;projects[] = xmlsitemap
-;projects[] = views_bulk_operations
+;projects[] = entityreference
+projects[] = backup_migrate
+projects[] = feeds
+projects[] = media
+projects[] = rules
 
 ; Translation and Internationalization
-;projects[] = i18n
-;projects[] = entity_translation
+projects[] = i18n
+projects[] = entity_translation
 
 
 ; THEMES
@@ -65,3 +56,4 @@ projects[] = entityreference
 
 projects[] = tao
 projects[] = rubik
+projects[] = zen
