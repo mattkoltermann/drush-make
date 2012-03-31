@@ -35,6 +35,7 @@ projects[] = link
 ; Layout
 projects[] = ds
 projects[] = context
+projects[] = boxes
 
 ; APIs
 projects[] = entity
