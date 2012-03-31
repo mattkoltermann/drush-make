@@ -50,6 +50,7 @@ projects[] = rules
 ; Translation and Internationalization
 projects[] = i18n
 projects[] = entity_translation
+projects[] = translation_overview
 
 
 ; THEMES
