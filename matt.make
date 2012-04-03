@@ -20,6 +20,7 @@ projects[] = devel_image_provider
 projects[] = devel_themer
 projects[] = masquerade
 projects[] = module_filter
+projects[] = strongarm
 
 ; Basics
 projects[] = views
