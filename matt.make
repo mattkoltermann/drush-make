@@ -36,14 +36,18 @@ projects[] = link
 ; Layout
 projects[] = ds
 projects[] = context
-projects[] = boxes
+projects[] = panels
 
 ; APIs
 projects[] = entity
 projects[] = libraries
 
+; Blocks
+; projects[] = bean
+projects[] = boxes
+
 ; Extras
-;projects[] = entityreference
+projects[] = entityreference
 projects[] = backup_migrate
 projects[] = feeds
 projects[] = media
