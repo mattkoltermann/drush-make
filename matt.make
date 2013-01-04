@@ -52,6 +52,8 @@ projects[] = backup_migrate
 projects[] = feeds
 projects[] = media
 projects[] = rules
+projects[] = linkchecker
+projects[] = httprl
 
 ; Translation and Internationalization
 projects[] = i18n
